@@ -27,4 +27,4 @@ Technology Used:
 ## Screenshot
 Below is a preview of the layout created from this design.
 
-![image alt](https://github.com/AilaArshad/Food_Panda_Application_Design/blob/a9545700d622f4182f146b14c40083dfb7c3a21e/Preview%20(2).png)
+![image alt](https://github.com/AilaArshad/Job_Finding_App/blob/227ce24cd52f7244f9941ddf59cbc5e3ef6bf688/Preview.png)
