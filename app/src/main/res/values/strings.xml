@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Job FindingApp</string>
+    <string name="best_matches">Best matches</string>
+    <string name="search">Search</string>
+    <string name="workedin">Workedin</string>
+    <string name="edit">Edit</string>
+    <string name="marketing_coordinator">Marketing Coordinator</string>
+    <string name="mozilla_firefox">Mozilla firefox</string>
+    <string name="full_time">Full-time</string>
+    <string name="_20k_50k">$20K - $50K</string>
+    <string name="sr_web_designer">Sr. Web designer</string>
+    <string name="discord">Discord</string>
+    <string name="remote">Remote</string>
+    <string name="_15k_30k">$15K - $30K</string>
+    <string name="visual_designer">Visual designer</string>
+    <string name="spotify">Spotify</string>
+    <string name="onsite">Onsite</string>
+    <string name="see_nearby">See nearby</string>
+</resources>

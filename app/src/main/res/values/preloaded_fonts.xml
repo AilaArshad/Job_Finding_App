@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abhaya_libre</item>
+        <item>@font/actor</item>
+        <item>@font/afacad_semibold</item>
+        <item>@font/alata</item>
+        <item>@font/aleo_thin</item>
+        <item>@font/alice</item>
+        <item>@font/amiko</item>
+        <item>@font/cabin</item>
+    </array>
+</resources>
